@@ -1,4 +1,4 @@
-# Web Developer React Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/kaustubhai/portfolio-template?color=blue)](https://github.com/kaustubhai/portfolio-template/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/kaustubhai/portfolio-template)](https://github.com/kaustubhai/portfolio-template/stargazers)
+
 
 ## A clean, beautiful and responsive react portfolio template for Developers!
 
@@ -58,10 +58,10 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/kaustubhai/portfolio-template.git
+$ git clone https://github.com/priyabratakhan/portfolio_new.git
 
 # Go into the repository
-$ cd portfolio-template
+$ cd portfolio-_new
 
 # Install dependencies
 $ npm install
